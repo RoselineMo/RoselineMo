@@ -6,7 +6,7 @@ I'm a Software Engineer, currently learning at [AltSchool Africa](https://altsch
 
 I'm passionate about frontend web engineering, sharing knowledge, and documentation 📚
 
-I document my technical journey on my (devsisi) blogs on [hashnode](https://devsisi.hashnode.dev) and [dev.to](https://dev.to/devsisi) ✍️
+I document my technical journey on my blogs (devsisi) on [hashnode](https://devsisi.hashnode.dev) and [dev.to](https://dev.to/devsisi) ✍️
 
 And currently learning to build useful public projects like [this one](https://devsisi-figmatocode.netlify.app/) 🛠
 
