@@ -6,7 +6,7 @@ I'm a Software Engineer, currently learning at [AltSchool Africa](https://altsch
 
 I'm passionate about frontend web engineering, sharing knowledge, and documentation 📚
 
-I document my technical journey on my blogs on [hashnode](https://devsisi.hashnode.dev) and [dev.to](https://dev.to/devsisi) ✍️
+I document my technical journey on my (devsisi) blogs on [hashnode](https://devsisi.hashnode.dev) and [dev.to](https://dev.to/devsisi) ✍️
 
 And currently learning to build useful public projects like [this one](https://devsisi-figmatocode.netlify.app/) 🛠
 
@@ -20,9 +20,9 @@ Aspiring to speak at tech meetups/conferences and build technical communities in
 - 🌱 I’m currently learning JavaScript, building up to Reactjs.
 - 💁‍♀️ I’m open to collaborations and help with open source projects, hackathons, internships and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer (Intern or Junior level).
-- 📫 You can [view my portfolio here](https://github.com/devsisi) and contact me by [email here](mailto:roselinemorenikejic@gmail.com), Thank you! 🙌
+- 📫 You can [view my portfolio here](https://github.com/roselinemorenikeji) and contact me by [email here](mailto:roselinemorenikejic@gmail.com), Thank you! 🙌
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=devsisi&show_icons=true&include_all_commits=true&hide_border=true" alt="'s GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsisi&langs_count=8&layout=compact&hide_border=true" alt="Roseline Morenikeji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=roselinemorenikeji&show_icons=true&include_all_commits=true&hide_border=true" alt="'s GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roselinemorenikeji&langs_count=8&layout=compact&hide_border=true" alt="Roseline Morenikeji's GitHub stats" /> |
 | ------------- | ------------- |
