@@ -24,5 +24,5 @@ Aspiring to speak at tech meetups/conferences and build technical communities in
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=roselinemorenikeji&show_icons=true&include_all_commits=true&hide_border=true" alt="'s GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roselinemorenikeji&langs_count=8&layout=compact&hide_border=true" alt="Roseline Morenikeji's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=roselinemo&show_icons=true&include_all_commits=true&hide_border=true" alt="'s GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roselinemo&langs_count=8&layout=compact&hide_border=true" alt="Roseline Morenikeji's GitHub stats" /> |
 | ------------- | ------------- |
