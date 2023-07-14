@@ -20,7 +20,7 @@ Aspiring to speak at tech meetups/conferences and build technical communities in
 - 🌱 I’m currently learning JavaScript, building up to Reactjs.
 - 💁‍♀️ I’m open to collaborations and help with open source projects, hackathons, internships and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer (Intern or Junior level).
-- 📫 You can view my portfolio [here](https://github.com/roselinemorenikeji) and contact me by email [here](mailto:roselinemorenikejic@gmail.com), Thank you! 🙌
+- 📫 You can contact me on twitter [here](https://twitter.com/_devsisi), Thank you! 🙌
 
 ---
 
