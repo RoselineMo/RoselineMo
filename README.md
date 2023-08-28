@@ -8,7 +8,7 @@ I'm passionate about frontend web engineering, sharing knowledge, and documentat
 
 I document my technical journey on my blogs on [hashnode](https://devsisi.hashnode.dev) and [dev.to](https://dev.to/devsisi) ✍️
 
-And currently learning to build useful public projects like [this one](https://devsisi-figmatocode.netlify.app/) 🛠
+And currently learning to build useful public projects like [this one](https://roselinemo.com) 🛠
 
 Aspiring to speak at tech meetups/conferences and build technical communities in the future... 🚀
 
