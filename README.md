@@ -8,7 +8,7 @@ I'm passionate about frontend web engineering, sharing knowledge, and documentat
 
 I document my technical journey on my blogs on [hashnode](https://devsisi.hashnode.dev) and [dev.to](https://dev.to/devsisi) ✍️
 
-And currently learning to build useful public projects like [this one](https://roselinemo.com) 🛠
+And currently learning to build useful public projects like [this one](https://test-roselinemo.web.app) 🛠
 
 Aspiring to speak at tech meetups/conferences and build technical communities in the future... 🚀
 
@@ -19,7 +19,7 @@ Aspiring to speak at tech meetups/conferences and build technical communities in
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2023.
 - 🌱 I’m currently learning JavaScript, building up to Reactjs.
 - 💁‍♀️ I’m open to collaborations and help with open source projects, hackathons, internships and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Frontend Engineer.
 - 📫 You can contact me by [email](mailto:roselinmorenikejic@gmail.com) or [twitter](https://twitter.com/roselinemo_), Thank you! 🙌
 
 ---
