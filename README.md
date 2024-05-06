@@ -6,7 +6,7 @@
 
 🌟 Building useful projects like [this](https://www.will-be-there.vercel.app) 
 
-🌸 Passionate about technical communities and sharing knowledge
+🌸 Passionate about communities and sharing tech knowledge on my [blog](https://www.roselinemo.com/blog)
 
 
 **Here's a Quick summary about me**:
