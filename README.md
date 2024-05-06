@@ -4,19 +4,18 @@
 
 💎 I'm a Software Engineer (frontend dev) 
 
-🌟 Currently building useful public projects like [this one](https://www.will-be-there.vercel.app) 
+🌟 Building useful projects like [this](https://www.will-be-there.vercel.app) 
 
-🌸 Passionate about sharing knowledge 📚 and technical communities 🚀
+🌸 Passionate about technical communities and sharing knowledge
 
 
-**Here's a quick summary about me**:
+**Quick summary about me**:
 
-- 😊 Pronouns: She/Her
+- 🌸 Pronouns: She/Her
 - 💡 Fun fact: I'm a product of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
-- 🌱 I’m currently working with Reactjs.
-- 💁‍♀️ I’m open to collaborations 
-- 💼 Job interests: Software Engineer, Frontend Engineer.
-- 📫 You can contact me by [Email](mailto:roselinmorenikejic@gmail.com) or [X](https://x.com/roselinemo_), Thank you! 🙌
+- 💎 Tech stack - Reactjs, Tailwind CSS 
+- 🤝 I’m open to collaborations 
+- 📫 Send me an [Email](mailto:roselinmorenikejic@gmail.com) or @ me on [X](https://x.com/roselinemo_) 🤝
 
 ---
 
