@@ -9,13 +9,13 @@
 🌸 Passionate about technical communities and sharing knowledge
 
 
-**🌱 Quick summary about me**:
+**Here's a Quick summary about me**:
 
 - 🌸 Pronouns: She/Her
 - 💡 Fun fact: I'm a product of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
 - 💎 Tech stack - Reactjs, Tailwind CSS 
 - 🤝 I’m open to collaborations 
-- 📫 [Email] (mailto:roselinmorenikejic@gmail.com) me or @ me on [X](https://x.com/roselinemo_) 🤝
+- 📫 [Email](mailto:roselinmorenikejic@gmail.com) me or @ me on [X](https://x.com/roselinemo_) 🤝
 
 ---
 
