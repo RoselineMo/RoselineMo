@@ -10,7 +10,6 @@
 - 🌸 Pronouns: She/Her
 - 💡 Fun fact: I'm a product of AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
 - 💎 Tech stack - MERN, Tailwind CSS 
-- 🤝 Visit my [website](https://www.roselinemo.com),
-- 📫 [Email](mailto:roselinmorenikejic@gmail.com) me or @ me on [X](https://x.com/roselinemo_) 🤝
+- 🤝 Visit my [website](https://www.roselinemo.com), 📫 [Email](mailto:roselinmorenikejic@gmail.com) me or @ me on [X](https://x.com/roselinemo_) 🤝
 
 ---
