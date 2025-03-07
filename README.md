@@ -2,9 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/roselinemo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roselinemo)](https://www.linkedin.com/in/roselinemo) [![X Badge](https://img.shields.io/badge/-@roselinemo_-1ca0f1?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/roselinemo_)](https://x.com/roselinemo_)
 
-💎 I'm a Fullstack Software Engineer (web)
-
-🌟 Passionate about programming and sharing coding knowledge on my [BLOG](https://www.roselinemo.com/blog) 🚀
+💎 I'm a Fullstack Software Engineer (web)  🌟 Passionate about programming and sharing coding knowledge on my [BLOG](https://www.roselinemo.com/blog) 🚀
 
 
 
