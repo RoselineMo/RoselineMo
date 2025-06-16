@@ -1,6 +1,6 @@
 # Hi 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/roselinemo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roselinemo)](https://www.linkedin.com/in/roselinemo) [![X Badge](https://img.shields.io/badge/-@roselinemo_-1ca0f1?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/roselinemo_)](https://x.com/roselinemodev)
+[![Linkedin Badge](https://img.shields.io/badge/roselinemo-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roselinemo)](https://www.linkedin.com/in/roselinemo) [![X Badge](https://img.shields.io/badge/-@roselinemodev-1ca0f1?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/roselinemo_)](https://x.com/roselinemodev)
 
 💎 I'm a Fullstack Software Engineer 
 
