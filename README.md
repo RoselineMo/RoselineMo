@@ -14,7 +14,7 @@
 
 - 🌸 Pronouns: She/Her
 - 💡 Fun fact: I'm a product of AltSchool Africa [School of Software Engineering](https://engineering.altschoolafrica.com/) Class of 2023/2024.
-- 💎 Tech stack - MERN, Tailwind, and more 
+- 💎 Tech stack - MERN, Tailwind, SQL
 - 🤝 Visit my [Website](https://about.me/roselinemorenikeji) or @ me on [X](https://x.com/thenonyerose) 🤝
 
 ---
