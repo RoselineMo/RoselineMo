@@ -1,12 +1,12 @@
 # Hi 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/r-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/roselinemo) [![X Badge](https://img.shields.io/badge/-@thenonyerose-1ca0f1?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/thenonyerose)](https://x.com/thenonyerose)
+[![Linkedin Badge](https://img.shields.io/badge/in-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/roselinemo)](https://www.linkedin.com/in/roselinemo) [![X Badge](https://img.shields.io/badge/-@thenonyerose-1ca0f1?style=for-the-badge&logo=x&logoColor=white&link=https://x.com/thenonyerose)](https://x.com/thenonyerose)
 
 💎 I'm a Fullstack Developer & Product Manager 
 
 🌟 Passionate about programming and tech education 
 
-📚 View my [website](https://about.me/roselinemorenikeji) 🚀
+📚 View my [portfolio](Work In Progress) 🚀
 
 
 
